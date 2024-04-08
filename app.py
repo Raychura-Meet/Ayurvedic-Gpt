@@ -1,7 +1,7 @@
 import streamlit as st
 import openai
 # Initialize your OpenAI API key
-openai.api_key = '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'
+openai.api_key = 'Enter Your Api Key'
 
 # Example Ayurvedic text. Replace this with your actual text.
 ayurvedic_text = """
